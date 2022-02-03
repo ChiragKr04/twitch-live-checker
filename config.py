@@ -7,4 +7,4 @@ username = "that_typical_programmer"
 chrome_path = "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 
 # Give your custom message
-custom_message = f"I love you {username} <3"
+custom_message = f"Hello what's up {username} <3"
